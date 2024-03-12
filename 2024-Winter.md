@@ -3,6 +3,7 @@
 | date | paper | 
 |------|-------|
 | 2024-03-05 | [Replication- Towards a Publicly Available Internet Scale IP Geolocation Dataset](papers/2023\ IMC\ -\ Replication-\ Towards\ a\ Publicly\ Available\ Internet\ Scale\ IP\ Geolocation\ Dataset.pdf)
+| 2024-03-12 | [An LLM-basedFrameworkforFingerprintingInternet-connected Device](papers/2023 IMC - AnLLM-basedFrameworkforFingerprintingInternet-connected Devices.pdf) |
 | 2024-03-19 12:00 | [Third time's not a charm: exploiting SNMPv3 for router fingerprinting](2021 IMC - Third Time’s Not a Charm- Exploiting SNMPv3 for Router Fingerprinting.pdf) | 
 |     | [Illuminating Router Vendor Diversity Within Providers and Along Network Paths](2023 IMC - Illuminating Router Vendor Diversity Within Providers and Along Network Paths.pdf) | 
 |     | [AnLLM-basedFrameworkforFingerprintingInternet-connected Device](papers/2023 IMC - AnLLM-basedFrameworkforFingerprintingInternet-connected Devices.pdf) |
