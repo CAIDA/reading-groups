@@ -10,7 +10,7 @@
 | 2024-04-09 | 3 PM | [Zeph & Iris map the internet](papers/2022 Sigcomm - Zeph and Iris map the internet.pdf) | 
 | 2024-04-23 | 4 PM | [Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem](https://dl.acm.org/doi/10.1145/3618257.3624803)   |
 | 2024-05-20 | 3 PM | [The Prevalence of Single SignOn](papers/2023 PAM - The Prevalence of Single Sign.pdf) | 
-| 2024-06-05 | 3 PM | [Sammy: smoothing video traffic to be a friendly internet neighbor](https://dl.acm.org/doi/10.1145/3603269.3604839) | 
+| 2024-06-05 | 1:30 PM | [Sammy: smoothing video traffic to be a friendly internet neighbor](https://dl.acm.org/doi/10.1145/3603269.3604839) | 
 | | | [ SHARE ON Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://dl.acm.org/doi/10.1145/3603269.3604831) |
 | | | [Taming the transient while reconfiguring BGP](https://dl.acm.org/doi/10.1145/3603269.3604855) |
 | | | [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf) |
