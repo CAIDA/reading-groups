@@ -12,7 +12,8 @@
 | 2024-04-29 | 3 PM | [Pushing Alias Resolution to the Limit](https://dl.acm.org/doi/pdf/10.1145/3618257.3624840)   |
 | 2024-05-20 | 3 PM | [The Prevalence of Single SignOn](papers/2023 PAM - The Prevalence of Single Sign.pdf) | 
 | 2024-06-05 | 1:30 PM | [Sammy: smoothing video traffic to be a friendly internet neighbor](https://dl.acm.org/doi/10.1145/3603269.3604839) | 
-| 2024-06-10 | 3 PM | [ Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://dl.acm.org/doi/10.1145/3603269.3604831) |
-| 2024-06-10 | 3 PM | [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf) |
+| 2024-06-10 | 3 PM | [ Trufflehunter: Cache Snooping Rare Domains at Large Public DNS Resolvers ](https://dl.acm.org/doi/10.1145/3419394.3423640) | 
+| 2024-06-17 | 3 PM | [ Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://dl.acm.org/doi/10.1145/3603269.3604831) |
+| 2024-06-17 | 3 PM | [The Importance of Contextualization of Crowdsourced Active Speed Test Measurements](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/speedtest.pdf) |
 | 2024-06-17| 3 PM  | [DissecTLS: A Scalable Active Scanner for TLS Server Configurations, Capabilities, and TLS Fingerprinting](https://link.springer.com/content/pdf/10.1007/978-3-031-28486-1_6.pdf)   |
 | | | [Taming the transient while reconfiguring BGP](https://dl.acm.org/doi/10.1145/3603269.3604855) |
