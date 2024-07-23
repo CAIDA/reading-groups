@@ -16,4 +16,6 @@
 | 2024-06-17 | 3 PM | [ Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs](https://dl.acm.org/doi/10.1145/3603269.3604831) |
 | 2024-07-08| 3 PM  | [DissecTLS: A Scalable Active Scanner for TLS Server Configurations, Capabilities, and TLS Fingerprinting](https://link.springer.com/content/pdf/10.1007/978-3-031-28486-1_6.pdf)   |
 | 2024-07-22| 5:30 PM  | [Reverse Traceroute](https://www.usenix.org/conference/nsdi10-0/reverse-traceroute)   |
+| 2024-07-29| 5:30 PM  | [RoVista: Measuring and Analyzing the Route Origin Validation
+(ROV) in RPKI](https://dl.acm.org/doi/pdf/10.1145/3618257.3624806)   |
 | | | [Taming the transient while reconfiguring BGP](https://dl.acm.org/doi/10.1145/3603269.3604855) |
