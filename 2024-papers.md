@@ -18,6 +18,6 @@
 | 2024-07-22| 5:30 PM  | [Reverse Traceroute](https://www.usenix.org/conference/nsdi10-0/reverse-traceroute)   |
 | 2024-07-29| 5:30 PM  | [RoVista: Measuring and Analyzing the Route Origin Validation (ROV) in RPKI](https://dl.acm.org/doi/pdf/10.1145/3618257.3624806)   |
 | 2024-08-12| 5:30 PM  | [Making Sense of Constellations:Methodologies for Understanding Starlink’s Scheduling Algorithms](https://dl.acm.org/doi/pdf/10.1145/3624354.3630586)   |
-| 2024-08-26| 5:30 PM  | [Democratizing LEO Satellite Network Measurement](https://dl.acm.org/doi/abs/10.1145/3639039)   |
+| 2024-08-26| 3 PM  | [Democratizing LEO Satellite Network Measurement](https://dl.acm.org/doi/abs/10.1145/3639039)   |
 
 | | | [Taming the transient while reconfiguring BGP](https://dl.acm.org/doi/10.1145/3603269.3604855) |
