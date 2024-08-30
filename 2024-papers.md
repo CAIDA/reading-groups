@@ -22,5 +22,7 @@
 | 2024-09-03 | 3 PM  | [Measuring a Low-Earth-Orbit Satellite Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10294034)   |
  2024-09-09 | 3 PM  | [Multi-Timescale Evaluation of Starlink Throughput](https://dl.acm.org/doi/pdf/10.1145/3614204.3616108)   |
  2024-09-16 | 3 PM  | [Starlink on the Road: A First Look at Mobile Starlink Performance in Central Europe](https://tma.ifip.org/2024/wp-content/uploads/sites/13/2024/05/tma2024-final53.pdf)   |
+ 2024-09-23 | 3 PM  | [Dissecting the Performance of Satellite Network Operators](https://arxiv.org/pdf/2310.15808)   |
+ 
 
 | | | [Taming the transient while reconfiguring BGP](https://dl.acm.org/doi/10.1145/3603269.3604855) |
