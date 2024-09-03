@@ -19,10 +19,11 @@
 | 2024-07-29| 5:30 PM  | [RoVista: Measuring and Analyzing the Route Origin Validation (ROV) in RPKI](https://dl.acm.org/doi/pdf/10.1145/3618257.3624806)   |
 | 2024-08-12| 5:30 PM  | [Making Sense of Constellations:Methodologies for Understanding Starlink’s Scheduling Algorithms](https://dl.acm.org/doi/pdf/10.1145/3624354.3630586)   |
 | 2024-08-27 | 3 PM  | [Democratizing LEO Satellite Network Measurement](https://dl.acm.org/doi/abs/10.1145/3639039)   |
-| 2024-09-03 | 3 PM  | [Measuring a Low-Earth-Orbit Satellite Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10294034)   |
- 2024-09-09 | 3 PM  | [Multi-Timescale Evaluation of Starlink Throughput](https://dl.acm.org/doi/pdf/10.1145/3614204.3616108)   |
- 2024-09-16 | 3 PM  | [Starlink on the Road: A First Look at Mobile Starlink Performance in Central Europe](https://tma.ifip.org/2024/wp-content/uploads/sites/13/2024/05/tma2024-final53.pdf)   |
- 2024-09-23 | 3 PM  | [Dissecting the Performance of Satellite Network Operators](https://arxiv.org/pdf/2310.15808)   |
+| 2024-09-03 | 3 PM  | NO MEETING   |
+| 2024-09-10 | 1 PM  | [Measuring a Low-Earth-Orbit Satellite Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10294034)   |
+ 2024-09-17 | 1 PM  | [Multi-Timescale Evaluation of Starlink Throughput](https://dl.acm.org/doi/pdf/10.1145/3614204.3616108)   |
+ 2024-09-23 | 1 PM  | [Starlink on the Road: A First Look at Mobile Starlink Performance in Central Europe](https://tma.ifip.org/2024/wp-content/uploads/sites/13/2024/05/tma2024-final53.pdf)   |
+ 2024-09-30 | 1 PM  | [Dissecting the Performance of Satellite Network Operators](https://arxiv.org/pdf/2310.15808)   |
  
 
 | | | [Taming the transient while reconfiguring BGP](https://dl.acm.org/doi/10.1145/3603269.3604855) |
