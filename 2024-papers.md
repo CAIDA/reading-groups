@@ -26,8 +26,8 @@
 | 2024-09-23 |   | NO MEETING   |
 | 2024-09-30 |   | NO MEETING   |
 | 2024-10-08 |   | NO MEETING   |
-| 2024-10-15 | 3 PM  | [Starlink on the Road: A First Look at Mobile Starlink Performance in Central Europe](https://tma.ifip.org/2024/wp-content/uploads/sites/13/2024/05/tma2024-final53.pdf)   |
-| 2024-10-15 | 3 PM  | [Dissecting the Performance of Satellite Network Operators](https://arxiv.org/pdf/2310.15808)   |
+| 2024-10-17 | 3 PM  | [Starlink on the Road: A First Look at Mobile Starlink Performance in Central Europe](https://tma.ifip.org/2024/wp-content/uploads/sites/13/2024/05/tma2024-final53.pdf)   |
+| 2024-10-17 | 3 PM  | [Dissecting the Performance of Satellite Network Operators](https://arxiv.org/pdf/2310.15808)   |
  
 
 | | | [Taming the transient while reconfiguring BGP](https://dl.acm.org/doi/10.1145/3603269.3604855) |
